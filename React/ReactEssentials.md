@@ -161,7 +161,6 @@ function App() {
 <summary>view</summary>
 
    -  The event loop is a mechanism in JavaScript that allows for asynchronous execution of code by continuously checking the call stack and 
-    message queue for new tasks to execute. It ensures that the execution of long-running operations does not block the main thread and allows 
+    task queue for new tasks to execute. It ensures that the execution of long-running operations does not block the main thread and allows 
     for efficient handling of I/O operations.
     </details>
-    
