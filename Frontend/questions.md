@@ -7,8 +7,12 @@
 2. Explain how a browser renders a webpage (CRP)
   ![image](./1_yQJkz12sPxS-kJoMDqzbEQ.webp)
 
-- At what stage are inline styles parsed
-- Repaint vs reflow
+3. At what stage are inline styles parsed
+  * Inline styles are parsed by the browser's rendering engine during the rendring stage, after the HTML and the CSS files are been loaded and parsed.
+
+4. Repaint vs reflow
+  * 
+  
 - How to make a web page load faster
 - How does keep connection alive header help web pages load faster
 - How to implement caching
