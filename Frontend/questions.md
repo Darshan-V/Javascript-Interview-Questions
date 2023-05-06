@@ -11,9 +11,20 @@
   * Inline styles are parsed by the browser's rendering engine during the rendring stage, after the HTML and the CSS files are been loaded and parsed.
 
 4. Repaint vs reflow
-  * 
+  * Reflow is the process of recalculating the postion and size of all elements on the web page in response to change 
+    in its content or style
+  * Repaint is the process of updating the visula appearance on the web page without changing the layout, typically in      response to change in the style of the element.  
   
 - How to make a web page load faster
+  * Optimize images
+  * Minimize HTTP requests
+  * caching
+  * Minify and compress code 
+  * CDN 
+  * Reduce server response time 
+  * use asyncronous loading
+  * eleminate render blocking resources
+
 - How does keep connection alive header help web pages load faster
 - How to implement caching
 - How to implement infinite scrolling
